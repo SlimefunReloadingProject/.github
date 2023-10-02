@@ -1,4 +1,4 @@
-# ReloadSlimefunAddons(English)
+# ReloadSlimefunAddons
 这是一个为了重置 旧的/停更的/有用的 Slimefun附属的小组织。（非官方组织）  
 This is a small organization for reload old/non-update/useful slimefun addons.(unofficial organization)  
 我们正在制作一些重置版的Slimefun附属！  

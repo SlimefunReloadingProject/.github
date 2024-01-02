@@ -1,9 +1,13 @@
 # ReloadSlimefunAddons
 这是一个为了重置 旧的/停更的/有用的 Slimefun附属的小组织。（非官方组织）  
-This is a small organization for reload old/non-update/useful slimefun addons.(unofficial organization)  
 我们正在制作一些重置版的Slimefun附属！  
-We're working on some reset Slimefun addons!  
 
-## 附属语言支持 Addon Language Support  
-基本所有的附属都支持英语和简体中文，当然你也可以翻译至其他语言并创建一个拉取请求。    
-Basically all addons support English and Simplified Chinese, but you can also translate to other languages and create a pull request.
+## 附属语言支持 
+基本所有的附属都支持英语（麻烦其他开发人员不要删除，因为这对同步原作者翻译很重要）和简体中文，当然你也可以翻译至其他语言并创建一个拉取请求。    
+
+## 附属使用事项
+目前所有的附属仅能使用[Starwishsama的分支](https://github.com/starwishsama/Slimefun4)进行运行，哪个附属出bug了或者给附属添加内容的，请在相对应的仓库创建一个问题。
+
+## 加入
+我们欢迎所有积极开发粘液附属的作者加入我们，但凭我们的力量肯定不够！
+欢迎加入QQ群：没创

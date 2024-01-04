@@ -1,7 +1,9 @@
 # ReloadSlimefunAddons
 这是一个为了重置 旧的/停更的/有用的 Slimefun附属的小组织。（非官方组织）  
-我们正在制作一些重置版的Slimefun附属！  
+我们正在制作一些重置版的Slimefun附属！    
 
+图标来自[Slimefun](https://github.com/Slimefun)组织，并由[@lijinhong11](https://github/lijinhong11)修改。   
+The icon is from [Slimefun](https://github.com/Slimefun) organization and has been modified by [@lijinhong11](https://github/lijinhong11)
 ## 附属语言支持 
 基本所有的附属都支持英语（麻烦其他开发人员不要删除，因为这对同步原作者翻译很重要）和简体中文，如果没有翻译完全你可以翻译后创建一个拉取请求（Pull repuest）。    
 

@@ -1,5 +1,5 @@
 # ReloadSlimefunAddons
-这是一个为了重置 旧的/停更的/有用的 Slimefun附属的小组织。（非官方组织）  
+这是一个为了 开发SC附属及重置、重构、开发Java Slimefun附属 的小组织。（非官方组织，也不是隶属于SlimefunGuguProject的）  
 我们正在制作一些重置版的Slimefun附属！    
 
 图标来自[Slimefun](https://github.com/Slimefun)组织，并由[@lijinhong11](https://github/lijinhong11)修改。   

@@ -15,5 +15,5 @@ Basically, all addons support English (please do not remove it for other develop
 Currently, all addons can only use the [Starwishsama branch](https://github.com/starwishsama/Slimefun4).Please create a question in the corresponding repository to determine which subsidiary has a bug or added content to it.
 
 ## 加入
-我们欢迎所有积极开发粘液附属的作者加入我们，但凭我们的力量肯定不够！
+我们欢迎所有积极开发粘液附属的作者加入我们，一起开发粘液附属！  
 欢迎加入QQ群：811756705

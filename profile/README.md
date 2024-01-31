@@ -1,4 +1,4 @@
-# ReloadSlimefunAddons
+# SlimefunReloadingProject
 这是一个为了 开发SC附属及重置、重构、开发Java Slimefun附属 的小组织。（非官方组织，也不是隶属于SlimefunGuguProject的）  
 我们正在制作一些重置版的Slimefun附属！    
 
